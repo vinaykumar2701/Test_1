@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <title>test_1</title>
+        <style>
+            H3{
+                background-color: aqua;
+            }
+            marquee{
+                background-color: bisque;
+            }
+        </style>
+    </head>
+    <body>
+    <header>
+        <h2><CENTER>KURAKULA VINAY KUMAR</CENTER></h2><br>
+        <button a href="http://127.0.0.1:3000/TEST_1">Download</button>
+        <HR>
+            <marquee>Name : Vinay kumar kurakula, Cntact : 9505320214,Email Id : vinaykumarkurakula@gmail.com</marquee>
+    </header>
+    <main>
+        <h3><center>HOBBIES</center></h3>
+        <ul>
+            <li>Reading Books</li>
+            <li>Plaing Games</li>
+            <li>Browsing Internet</li>
+        </ul>
+        <h3><center>TECNICAL SKILLS</center></h3>
+        <UL>
+            <LI>C</LI>
+            <li>C++</li>
+            <li>Core Java</li>
+            <li>HTML</li>
+        </UL>
+        <h3><center>ADDRESS</center></h3>
+        <div>
+            Hno:4-65<br>
+            Banajipet(vill)<br>
+            Raghunathpally(mdl)<br>
+            Janagam(dist)<br>
+            Telangan(state)<br>
+            Pin Code :506244
+        <div>
+            <div>
+                <img src="./vinay_photo.jpg" heigh="100" width="100"><br>
+                <img src="./vinay_signature.jpg" height="100" width="100">
+            </div>
+    </main>
+    </body>
+</html>
